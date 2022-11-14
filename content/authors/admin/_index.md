@@ -69,4 +69,4 @@ We have particular expertise in geospatial pedagogy and offer both university an
 
 Current students are studying design guidelines for tactile maps for blind and low vision users, supporting decision making using virtual reality in ecosystem service modelling, and using virtual reality to weave identity. Former students have looked at noise modelling for early childhood centres and schools, parking impacts on commuting at both home and work, and capturing neighbourhood boundaries.
 
-Get in contact if you are interested in working with us as a collaborator or student at either Masters or PhD level.
+Get in contact if you are interested in working with us as a collaborator, a student at either Masters or PhD level, or are interested in GIS courses.
