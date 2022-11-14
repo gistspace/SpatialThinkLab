@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2021-11-11'
     description: ''
-    organization: See MGIS thesis
+    organization: See MSc thesis
     organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
     title: Allan Schori - Modelled exposure to motor vehicle generated noise at schools and early childhood centres
     url: ''
@@ -41,9 +41,25 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
+    date_start: '2021-01-01'
+    description: ''
+    organization: ''
+    organization_url: ''
+    title: Sedigheh Mousavipour
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2020-01-01'
+    description: ''
+    organization: See MSc thesis
+    organization_url: https://researcharchive.vuw.ac.nz/handle/10063/9056
+    title: Hayden Rickard - Crowdsourcing Neighbourhood Delineations in Wellington, New Zealand
+    url: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: '2017-01-01'
     description: ''
-    organization: See MGIS thesis
+    organization: See MGIS (full year) thesis
     organization_url: https://ir.canterbury.ac.nz/bitstream/handle/10092/14406/MGIS%20thesis%20-%20Andrew%20Douglas-Clifford.pdf
     title: Andrew Douglas-Clifford - Gaining Insights into Public Transport Passenger Satisfaction using Crowdsourced Information
     url: ''
@@ -51,7 +67,7 @@ item:
     date_end: ''
     date_start: '2016-01-01'
     description: ''
-    organization: See MGIS thesis
+    organization: See MGIS (full year) thesis
     organization_url: https://ir.canterbury.ac.nz/bitstream/handle/10092/15009/MGIS%20thesis%20-%20Rory%20McPherson.pdf
     title: Rory McPherson - A usability comparison of Canvas, Topographic, and Street Basemaps
     url: ''
@@ -59,7 +75,7 @@ item:
     date_end: ''
     date_start: '2015-01-01'
     description: ''
-    organization: See MGIS thesis
+    organization: See MGIS (full year) thesis
     organization_url: http://researcharchive.vuw.ac.nz/handle/10063/4234
     title: Andrew Clouston - Crowdsourcing the Cadastre. The Applicability of Crowdsourced Geospatial Information to the New Zealand Cadastre 
     url: ''
@@ -67,7 +83,7 @@ item:
     date_end: ''
     date_start: '2015-01-01'
     description: ''
-    organization: See MGIS thesis
+    organization: See MGIS (full year) thesis
     organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Waiting_and_Weighting_Public_Transportation_Model_Sensitivity_to_Waiting_Time_and_Schedule_Deviation/20388354?file=36446601
     title: Richard Law - Waiting and Weighting. Public Transportation Model Sensitivity to Waiting Time and Schedule Deviation
     url: ''
