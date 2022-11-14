@@ -34,12 +34,11 @@ content:
     country: New Zealand
     country_code: NZ
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '-41.2901' #updated
+    longitude: '174.7685' #updated
+  directions: Second floor of the Cotton Building room 215
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Email for an appointment'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
