@@ -18,7 +18,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/spatialthinklab
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,7 +29,8 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
+More than 90% of New Zealand's historic wetlands have been lost. These important ecosystems are important for retaining sediment and nutrients, flood protection and attenuating for land and people living downstream, and for water quality.
 
-Lorem ipsum dolor sit amet. 
+This project aims to build stronger connections for Ngati Kahungunu ki Wairarapa with these important locations using a digital wetlands platform. Funded by MBIE's Vision Matauranga and Te Herenga Waka's Matauranga Maori funds, this platform includes a Virtual Reality application and a website showcasing interviews and Storymaps.
