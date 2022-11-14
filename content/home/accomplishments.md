@@ -25,12 +25,12 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2021-11-01'
     description: ''
     organization: MGIS thesis
-    organization_url: ''
+    organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
     title: Allan Schori - Modelled exposure to motor vehicle generated noise at schools and early childhood centres
-    url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
+    url: ''
 
 
 design:
