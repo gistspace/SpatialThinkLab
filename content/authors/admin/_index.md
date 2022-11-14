@@ -1,30 +1,32 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: SpatialThink Lab
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Lab
+last_name: SpatialThink
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Mairead de Roiste's Research Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Te Herenga Waka Victoria University of Wellington
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The SpatialThink Lab researches maps, spatial thinking, usability & virtual reality.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial Thinking
+  - Spatial Analysis
+  - Cartography
+  - Usability
+  - Geovisualization
 
 # Education to show in About widget
 education:
