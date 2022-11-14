@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Students'
+title: 'Past Students'
 subtitle:
 
 # Date format
@@ -27,10 +27,10 @@ item:
     date_end: ''
     date_start: '2021-01-01'
     description: 'MGIS thesis'
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Allan Schori - Modelled exposure to motor vehiclegenerated noise at schools and early childhood centres
-    url: ''
+    #organization: Coursera
+    #organization_url: https://www.coursera.org
+    title: Allan Schori - Modelled exposure to motor vehicle generated noise at schools and early childhood centres
+    #url: ''
 
 
 design:
