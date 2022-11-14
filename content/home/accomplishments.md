@@ -25,11 +25,19 @@ date_format: Jan 2006
 item:
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-11-01'
+    date_start: '2021-11-11'
     description: ''
     organization: MGIS thesis
     organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
     title: Allan Schori - Modelled exposure to motor vehicle generated noise at schools and early childhood centres
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2021-01-09'
+    description: ''
+    organization: PhD thesis
+    organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Estimating_the_impact_of_parking_on_car_ownership_and_commute_mode_choices/16575005 
+    title: Omid Khazaeian - Estimating the impact of parking on car ownership and commute mode choices
     url: ''
 
 
