@@ -1,13 +1,25 @@
 ---
-title: "An example journal article"
+title: "Lockdown lessons: an international conversation on resilient GI science teaching"
 authors:
-- admin
-- Robert Ford
+- Justine I Blanford
+- Forrest Bowlick
+- Anthony Gidudu
+- Michael Gould
+- Amy L Griffin
+- Bandana Kar
+- Karen Kemp
+- Mairéad de Róiste
+- Stefano deSabbata
+- Diana Sinton
+- Josef Strobl
+- Nicholas Tate
+- Fred Toppen
+- David Unwin
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-01-02T00:00:00Z"
+doi: "https://doi.org/10.1080/03098265.2021.1986687"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,23 +31,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal of Geography in Higher Education, 46*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We report the findings from two global panel “conversations” that, stimulated by the exceptional coronavirus pandemic of 2020/21, explored the concept of resilience in geographic science teaching and learning. Characteristics of resilient teaching, both in general and with reference to GISc, are listed and shown to be essentially what might in the past have been called good teaching. Similarly, barriers to resilient teaching are explored and strategies for overcoming them listed. Perhaps the most important conclusion is a widespread desire not to “bounce back” to pre-COVID ways, but to use the opportunity to “bounce forward” towards better teaching and learning practices.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Source Themes
+- Teaching
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://doi.org/10.1080/03098265.2021.1986687'
 url_dataset: ''
 url_poster: ''
 url_project: ''
