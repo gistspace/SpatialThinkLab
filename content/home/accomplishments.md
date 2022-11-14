@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-01'
-    description: 'MGIS thesis'
-    #organization: Coursera
-    #organization_url: https://www.coursera.org
+    description: ''
+    organization: MGIS thesis
+    organization_url: ''
     title: Allan Schori - Modelled exposure to motor vehicle generated noise at schools and early childhood centres
-    #url: ''
+    url: https://openaccess.wgtn.ac.nz/articles/thesis/Modelled_exposure_to_motor_vehicle_generated_noise_at_schools_and_early_childhood_centres_/17030039
 
 
 design:
