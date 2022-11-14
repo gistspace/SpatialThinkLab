@@ -15,7 +15,7 @@ role: Mairead de Roiste's Research Lab
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Te Herenga Waka Victoria University of Wellington
-    url: https://www.stanford.edu/
+    url: https://people.wgtn.ac.nz/mairead.deroiste
 
 # Short bio (displayed in user profile at end of posts)
 bio: The SpatialThink Lab researches maps, spatial thinking, usability & virtual reality.
@@ -51,7 +51,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/SpatialThinkLab
     label: Follow me on Twitter
     display:
       header: true
@@ -79,8 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The SpatialThink Lab is a research lab studying various aspects of spatial thinking and cognition with a particular focus on usability, cartography and geovisualization. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Get in contact if you are interested in working with us as a collaborator or student at either Masters or PhD level.
