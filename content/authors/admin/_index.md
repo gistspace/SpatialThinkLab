@@ -60,9 +60,9 @@ social:
 email: 'mairead.deroiste@vuw.ac.nz'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-The SpatialThink Lab is a research lab studying various aspects of spatial thinking and cognition with a particular focus on usability, cartography and geovisualization. 
+The SpatialThink Lab is a research lab studying various aspects of spatial thinking and cognition with a particular focus on usability, cartography, and geovisualization. We employ novel visualizations such as tactile maps, virtual reality, and spatial modelling.
 
 Get in contact if you are interested in working with us as a collaborator or student at either Masters or PhD level.
