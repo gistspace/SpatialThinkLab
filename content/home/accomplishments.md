@@ -41,11 +41,43 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
+    date_start: '2017-01-01'
+    description: ''
+    organization: See MGIS thesis
+    organization_url: https://ir.canterbury.ac.nz/bitstream/handle/10092/14406/MGIS%20thesis%20-%20Andrew%20Douglas-Clifford.pdf
+    title: Andrew Douglas-Clifford - Gaining Insights into Public Transport Passenger Satisfaction using Crowdsourced Information
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2016-01-01'
+    description: ''
+    organization: See MGIS thesis
+    organization_url: https://ir.canterbury.ac.nz/bitstream/handle/10092/15009/MGIS%20thesis%20-%20Rory%20McPherson.pdf
+    title: Rory McPherson - A usability comparison of Canvas, Topographic, and Street Basemaps
+    url: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: '2015-01-01'
     description: ''
     organization: See MGIS thesis
     organization_url: http://researcharchive.vuw.ac.nz/handle/10063/4234
-    title: Andrew Clouston - Crowdsourcing the Cadastre. The Applicability of Crowdsourced Geospatial Information to the New Zealand Cadastre
+    title: Andrew Clouston - Crowdsourcing the Cadastre. The Applicability of Crowdsourced Geospatial Information to the New Zealand Cadastre 
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2015-01-01'
+    description: ''
+    organization: See MGIS thesis
+    organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Waiting_and_Weighting_Public_Transportation_Model_Sensitivity_to_Waiting_Time_and_Schedule_Deviation/20388354?file=36446601
+    title: Richard Law - Waiting and Weighting. Public Transportation Model Sensitivity to Waiting Time and Schedule Deviation
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2014-01-01'
+    description: ''
+    organization: See PhD thesis
+    organization_url: http://researcharchive.vuw.ac.nz/handle/10063/3645
+    title: Katrin Sattler - Periglacial preconditioning of debris flows in the Southern Alps, New Zealand
     url: ''
 
 
