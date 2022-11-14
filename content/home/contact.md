@@ -29,11 +29,10 @@ content:
   phone: +64 4 463 6431
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: Wellington
+    postcode: '6012'
+    country: New Zealand
+    country_code: NZ
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
