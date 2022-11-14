@@ -31,7 +31,7 @@ content:
       tag: Cartography and Geovisualization
     - name: Spatial Modelling
       tag: Spatial Modelling
-    - name: Pedagogy
+    - name: Teaching
       tag: Teaching
     - name: Other
       tag: Other
