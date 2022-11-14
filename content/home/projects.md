@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Cartography and Geovisualization
+      tag: Cartography and Geovisualization
+    - name: Spatial Modelling
+      tag: Spatial Modelling
+    - name: Pedagogy
+      tag: Teaching
     - name: Other
-      tag: Demo
+      tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
