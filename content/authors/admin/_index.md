@@ -10,7 +10,7 @@ last_name: SpatialThink
 superuser: true
 
 # Role/position/tagline
-role: Mairead de Roiste's Research Lab
+role: Mairéad de Róiste's Research Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -68,7 +68,7 @@ The SpatialThink Lab is a research lab studying various aspects of spatial think
 
 We have particular expertise in geospatial pedagogy and offer both university and short tailored GIS and other geospatial courses. 
 
-The lab is lead by Dr Mairead de Roiste an Associate Professor at Te Herenga Waka Victoria University of Wellington and is based in Aotearoa New Zealand.
+The lab is lead by Dr Mairéad de Róiste an Associate Professor at Te Herenga Waka Victoria University of Wellington and is based in Aotearoa New Zealand.
 
 Current students are studying design guidelines for tactile maps for blind and low vision users, supporting decision making using virtual reality in ecosystem service modelling, and using virtual reality to weave identity. Former students have looked at noise modelling for early childhood centres and schools, parking impacts on commuting at both home and work, and capturing neighbourhood boundaries.
 
