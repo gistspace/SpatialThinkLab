@@ -18,7 +18,7 @@ organizations:
     url: https://people.wgtn.ac.nz/mairead.deroiste
 
 # Short bio (displayed in user profile at end of posts)
-bio: The SpatialThink Lab researches maps, spatial thinking, usability, & virtual reality.
+bio: The SpatialThink Lab researches cartography, geovisualization, spatial thinking, usability, & virtual reality.
 
 # Interests to show in About widget
 interests:
@@ -44,10 +44,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.nz/citations?hl=en&user=hLaHjh8AAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mairead-de-roiste-9367ab1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -57,7 +57,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mairead.deroiste@vuw.ac.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -28,7 +28,7 @@ content:
   email: mairead.deroiste@vuw.ac.nz
   phone: +64 4 463 6431
   address:
-    street: Kelburn Parade
+    street: Co215, Cotton Building, Kelburn Parade
     city: Wellington
     postcode: '6012'
     country: New Zealand
