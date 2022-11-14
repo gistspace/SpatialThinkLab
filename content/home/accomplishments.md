@@ -33,11 +33,19 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2021-01-09'
+    date_start: '2021-09-09'
     description: ''
     organization: See PhD thesis
     organization_url: https://openaccess.wgtn.ac.nz/articles/thesis/Estimating_the_impact_of_parking_on_car_ownership_and_commute_mode_choices/16575005 
     title: Omid Khazaeian - Estimating the impact of parking on car ownership and commute mode choices
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2015-01-01'
+    description: ''
+    organization: See MGIS thesis
+    organization_url: http://researcharchive.vuw.ac.nz/handle/10063/4234
+    title: Andrew Clouston - Crowdsourcing the Cadastre. The Applicability of Crowdsourced Geospatial Information to the New Zealand Cadastre
     url: ''
 
 
