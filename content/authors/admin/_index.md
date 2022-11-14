@@ -18,10 +18,10 @@ organizations:
     url: https://people.wgtn.ac.nz/mairead.deroiste
 
 # Short bio (displayed in user profile at end of posts)
-bio: The SpatialThink Lab researches maps, spatial thinking, usability & virtual reality.
+bio: The SpatialThink Lab researches maps, spatial thinking, usability, & virtual reality.
 
 # Interests to show in About widget
-interests:
+Research interests:
   - Spatial Thinking
   - Spatial Analysis
   - Cartography

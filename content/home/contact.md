@@ -28,7 +28,7 @@ content:
   email: mairead.deroiste@vuw.ac.nz
   phone: +64 4 463 6431
   address:
-    street: 450 Serra Mall
+    street: Kelburn Parade
     city: Wellington
     postcode: '6012'
     country: New Zealand
@@ -45,11 +45,8 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/SpatialThinkLab'
+
 
 design:
   columns: '2'
