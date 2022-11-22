@@ -39,7 +39,6 @@ content:
   directions: Second floor of the Cotton Building room 215
   office_hours:
     - 'Email for an appointment'
-  appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
