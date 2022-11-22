@@ -39,7 +39,7 @@ categories:
 
 ---
 
-As a teaching academic, I get quite a few requests for references from current and former students (quite rightly too!).
+The end of the academic year is an exciting time! As a teaching academic, I get quite a few requests for references from current and former students (quite rightly too!).
 
 I teach over 200 different students each year and get to know only a proportion of these well enough to give a detailed reference. 
 
