@@ -4,15 +4,15 @@ title: OpenStreetMap
 event: Spatial Literacy User Group
 event_url: https://www.wgtn.ac.nz/sgees/about/events
 
-location: Te Herenga Waka Victoria University of Wellington
+location: Te Herenga Waka Victoria University of Wellington - Cotton Building, room 304
 
-summary: A presentation to introduce OpenStreetMap to the staff and students at the University
+summary: This talk will explore some of the benefits and limitations of open source datasets focusing on OpenStreetMap and Noise Planet. The talk is aimed at those new to open source datasets.
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-01T13:00:00Z'
-date_end: '2022-06-01T15:00:00Z'
+date: '2022-10-01T12:00:00Z'
+date_end: '2022-10-01T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
