@@ -41,7 +41,7 @@ summary: ''
 
 tags:
 - Teaching
-featured: false
+featured: true
 
 # links:
 # - name: ""
