@@ -43,7 +43,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: "https://docs.google.com/presentation/d/1VoCANAeTCk6_C9yruNaPwEgWbZh-H_va/edit?usp=sharing&ouid=104715208231719053702&rtpof=true&sd=true"
+slides: "https://docs.google.com/presentation/d/1w8MAJv33jLDgnIMVUrNtas3au4sAP0y2hI5zIOKs_wE/edit?usp=sharing"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
