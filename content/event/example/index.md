@@ -1,18 +1,18 @@
 ---
-title: Example Talk
+title: OpenStreetMap
 
 event: Spatial Literacy User Group
 event_url: https://www.wgtn.ac.nz/sgees/about/events
 
 location: Te Herenga Waka Victoria University of Wellington
 
-summary: OpenStreetMap presentation for the Spatial Literacy User Group
+summary: A presentation to introduce OpenStreetMap to the staff and students at the University
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-06-01T13:00:00Z'
+date_end: '2022-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
