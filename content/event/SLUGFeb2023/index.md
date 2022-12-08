@@ -1,5 +1,5 @@
 ---
-title: 
+title: Summer Scholarship Reflections
 
 event: Spatial Literacy User Group - SLUG
 event_url: https://www.wgtn.ac.nz/sgees/about/events
@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Mairead de Roiste]
+authors: [Matthew Cunningham, Fraser Rivers]
 tags: [skill building]
 
 # Is this a featured talk? (true/false)
