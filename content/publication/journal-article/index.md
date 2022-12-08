@@ -17,7 +17,7 @@ authors:
 - David Unwin
 author_notes: ""
 date: "2022-01-02T00:00:00Z"
-doi: "/10.1080/03098265.2021.1986687"
+doi: "https://doi.org/10.1007/s11146-020-09757-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [Teaching]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
